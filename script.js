@@ -1,3 +1,3 @@
-function sayHi(){
-  alert("Web App chal rahi hai 🔥");
+function openSubject(subject){
+  alert(subject + " ke notes jaldi aa rahe hain 📘");
 }
